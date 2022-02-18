@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\proyecto 1 de progra 1.exe
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\proyecto 1 de progra 1.deps.json
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\proyecto 1 de progra 1.runtimeconfig.json
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\proyecto 1 de progra 1.dll
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\ref\proyecto 1 de progra 1.dll
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\bin\Debug\net6.0\proyecto 1 de progra 1.pdb
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.AssemblyInfo.cs
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.dll
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\ref\proyecto 1 de progra 1.dll
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.pdb
+C:\Users\pc\source\repos\proyecto 1 de progra 1\proyecto 1 de progra 1\obj\Debug\net6.0\proyecto 1 de progra 1.genruntimeconfig.cache

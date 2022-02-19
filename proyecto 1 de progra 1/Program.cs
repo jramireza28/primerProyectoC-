@@ -3,49 +3,52 @@ using System.Linq;
 using System.Text;
 
 
-public class aprendiendo
+public class PrimerosEjercicios
 {
     static void Main(string[] args)
     {
 
-
-        byte edad;
-        Console.WriteLine("ingrese su edad");
-        edad = Convert.ToByte(Console.ReadLine());
-        Console.WriteLine("usted no aparenta " + edad + "años");
+        //ejercicio #1
+        Console.WriteLine("<PRIMER EJERCICIO>");
         Console.WriteLine();
-
-        byte num1, num2;
-        ushort mult;
-        Console.WriteLine("ingrese un numero");
-        num1 = Convert.ToByte(Console.ReadLine());
-        Console.WriteLine("ingrese un numero");
-        num2 = Convert.ToByte(Console.ReadLine());
-        mult = (ushort)(num1 * num2);
-        Console.WriteLine("resultado de la multiplicacion: " + mult);
+        byte edad;//declaracion de variables de tipo byte
+        Console.WriteLine("ingrese su edad");//ingreso de datos del usuario
+        edad = Convert.ToByte(Console.ReadLine());//aqui se guardan los datos ingresados
+        Console.WriteLine("usted no aparenta tener " + edad + " años");
         Console.WriteLine();
+        Console.WriteLine("<SEGUNDO EJERCICIO>");
+        Console.WriteLine();
+        //ejercicio #2
+        byte num1, num2;//declaracion de variables de tipo byte
+        ushort mult;//declaracion de variables de tipo ushort
+        Console.WriteLine("ingrese un numero");//ingreso de datos del usuario
+        num1 = Convert.ToByte(Console.ReadLine());//aqui se guardan los datos ingresados
+        Console.WriteLine("ingrese el segundo numero");//ingreso de datos del usuario
+        num2 = Convert.ToByte(Console.ReadLine());//aqui se guardan los datos ingresados
+        mult = (ushort)(num1 * num2);//operacion de multiplicacion
+        Console.WriteLine("resultado de la multiplicacion: " + mult);//resultado del proceso
+        Console.WriteLine();
+        Console.WriteLine("<TERCER EJERCICIO>");
+        Console.WriteLine();
+        //ejercicio #3
+        long n1, n2, rest,sum,prod;//declaracion de variables
+        Console.WriteLine("Ingrese el primer número: ");//ingreso de datos del usuario
+        n1 =Convert.ToInt64(Console.ReadLine());//aqui se guardan los datos ingresados
+            Console.WriteLine("Ingrese el segundo número: ");//ingreso de datos del usuario
+            n2=Convert.ToInt64(Console.ReadLine());//aqui se guardan los datos ingresados
 
-
-        
-        
-            long n1, n2, rest,sum,prod;
-            Console.WriteLine("Ingrese el primer número: ");
-           n1=Convert.ToInt64(Console.ReadLine());
-            Console.WriteLine("Ingrese el segundo número: ");
-            n2=Convert.ToInt64(Console.ReadLine());
-            sum = n1 + n2;
+            sum = n1 + n2;// operacion de suma
             Console.WriteLine("El resultado de la suma es: " + sum);
             Console.ReadLine();
-
-            
+                    
             rest = n1 - n2;//operacion resta
             Console.WriteLine("El resultado de la resta es: " + rest);
             Console.ReadLine();
 
-            prod = n1 / n2;//se ralizo una division
-            Console.WriteLine("El resultado de la suma es: " + sum);
+            prod = n1 / n2;//operacion de division
+            Console.WriteLine("El resultado de la division es: " + prod );//resultado de nuestra division
             Console.ReadLine();
-        
+            
 
     }
 

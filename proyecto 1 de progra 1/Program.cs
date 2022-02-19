@@ -42,7 +42,7 @@ public class aprendiendo
             Console.WriteLine("El resultado de la resta es: " + rest);
             Console.ReadLine();
 
-            prod = n1 / n2;
+            prod = n1 / n2;//se ralizo una division
             Console.WriteLine("El resultado de la suma es: " + sum);
             Console.ReadLine();
         
